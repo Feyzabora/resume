@@ -40,50 +40,58 @@ sidebar:
 #      Brief career summary, goals and motivations
 
 experiences:
-    title: Experiences
-    info:
-      - role: Senior QA Engineer
-        time: 2021 - Present
-        company: spriteCloud
-        details: |
-          spriteCloud is a great consultancy.
+  title: Experiences
+  info:
+    - role: Test Automation Engineer
+      time: June 2023 – Present
+      company: Just Eat Takeaway.com
+      details: |
+        Joined the Payments Experience team as the sole QA engineer, responsible for cross-platform test coverage across Web, Android, and iOS.
 
-          Client #1
-            - Experience / achievement #1
-            - Experience / achievement #2
-            - ...
+        - Covered end-to-end testing for payment and checkout experiences, including online/offline payment flows: Credit Card, PayPal, Apple Pay, Google Pay, iDEAL, Klarna, Amazon Pay, cash options, vouchers, and more.
+        - Tested related systems such as service/delivery fees and return flows after the order page.
+        - Monitored payment success rates, conversion rates, live logs, and beta bugs using tools like Datadog and Kibana to identify and resolve issues.
+        - Played a crucial QA role in the OneX rollouts across multiple countries in 2024, ensuring platform stability and payment domain integrity with minimal post-release issues.
+        - Participated in weekly OneX sync meetings, supported tight delivery schedules, and maintained regular QA responsibilities without compromising quality.
+        - Became a key cross-platform tester and contributor to stakeholder satisfaction and project success.
+        - Tools: Order & Payment Management tools, Datadog, Kibana, Postman, Proxyman, Appium, Selenium, Cucumber, Java, GitHub, GitLab, Firebase, TestFlight
 
-          Client #2
-            - Experience / achievement #1
-            - Experience / achievement #2
-            - ...
+    - role: Test Automation Engineer
+      time: Dec 2021 – June 2023
+      company: spriteCloud
+      details: |
+        spriteCloud is a software testing consultancy offering custom automation and dashboard solutions.
 
-          Client #3
-            - Experience / achievement #1
-            - Experience / achievement #2
-            - ...
+        - Created and configured GitLab CI jobs and pipelines for internal automation needs.
+        - Developed test project samples (Maven, Node.js, Rails) for Calliope Pro integration.
+        - Automated Postman collections using Newman and scheduled test execution with GitLab CI.
+        - Improved test result reporting with Calliope.pro and Allure for insightful test visibility.
+        - Worked across frontend and backend automation using Java, Selenium, Appium, and Cucumber.
 
-      - role: previousRoleTitle#1
-        time: startDate - endDate
-        company: Company#2
-        details: |
-          Brief company description. <br>
-          
-          Brief role description.<br>
-            - Experience / achievement #1
-            - Experience / achievement #2
-            - ...
+    - role: Test Automation Engineer
+      time: Apr 2022 – June 2023
+      company: EVBox
+      details: |
+        EVBox provides electric vehicle charging solutions. I was responsible for testing the Web and Mobile applications used as dashboards for EVBox charging stations.
 
-      - role: PreviousRoleTitle#2
-        time: startDate - endDate
-        company: Company#3
-        details: |
-          Brief company description. <br>
-          
-          Brief role description.<br>
-            - Experience / achievement #1
-            - Experience / achievement #2
-            - ...
+        - Managed weekly smoke, regression, and sanity test cycles across platforms.
+        - Gained experience in embedded systems and hardware testing.
+        - Focused on mobile automation and backend API validation using Appium and Retrofit.
+        - Wrote creative and comprehensive test cases to validate complex system functionality.
+        - Performed integration testing to maintain release quality.
+        - Acquired basic Linux and Raspberry Pi command knowledge during testing phases.
+
+    - role: Software QA Engineer
+      time: Oct 2018 – Dec 2021
+      company: JustSnap
+      details: |
+        JustSnap delivers campaign-based receipt scanning solutions for clients like P&G, Pepsi, and Phillips.
+
+        - Managed QA for over 17 cross-platform mobile campaign projects.
+        - Built and executed automation and manual tests using Selenium, Katalon Studio, and Cucumber.
+        - Implemented modular and scalable test automation frameworks in Java using Maven and TestNG.
+        - Performed regression and sanity testing under fast delivery cycles.
+        - Used Jenkins CI with Groovy for scheduled and triggered test runs.
 
 education:
   title: Education
